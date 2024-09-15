@@ -24,7 +24,7 @@ The data set contains 101017 rows, the description of each column is given in th
 <div>
 <font size=3>
     
-|column|Description|
+|Column|Description|
 |:------:|:---:|
 |Created|Ticket registration time|
 |CancelTime|When the passenger canceled the ticket|
