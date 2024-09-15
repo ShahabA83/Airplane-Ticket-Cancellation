@@ -10,19 +10,19 @@ This project is completely written in Python </br>
 ---
 <h2 style="line-height:200%;font-family:vazir;color:#0099cc">
 <font color="#0099cc">
-Introduction to the dataset
+Introduction to the dataset:
 </font>
 </h2>
 
-<p dir=rtl style="direction: rtl; ; line-height:200%; font-family:vazir; font-size:medium">
+<p>
 <font size=3>
 The data set contains 101017 rows, the description of each column is given in the table below
 </font>
 </p>
 
 <center>
-<div dir=rtl style="direction: rtl;line-height:200%;font-family:vazir;font-size:medium">
-<font face="vazir" size=3>
+<div>
+<font size=3>
     
 |Description|column|
 |:------:|:---:|
@@ -52,6 +52,7 @@ The data set contains 101017 rows, the description of each column is given in th
 </font>
 </div>
 </center>
+
 
 ---
 ### Accuracy Model:
