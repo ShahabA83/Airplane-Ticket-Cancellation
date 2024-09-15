@@ -24,34 +24,30 @@ The data set contains 101017 rows, the description of each column is given in th
 <div>
 <font size=3>
     
-|Description|column|
+|column|Description|
 |:------:|:---:|
-|Ticket registration time|Created|
-|When the passenger canceled the ticket|CancelTime|
-|Time to move|DepartureTime|
-|Purchase ID|BillID|
-|Ticket ID|TicketID|
-|Customer payment status|ReserveStatus|
+|Created|Ticket registration time|
+|CancelTime|When the passenger canceled the ticket|
+|DepartureTime|Time to move|
+|BillID|Purchase ID|
+|TicketID|Ticket ID|
+|ReserveStatus|Customer payment status|
 |UserID|UserID|
-|Does the ticket belong to a woman or a man|Male|
-|Ticket price without discount|Price|
-|Discount applied by the person on the ticket|CouponDiscount|
-|Origin of travel|From|
-|Travel destination|To|
-|Is the trip domestic or foreign|Domestic|
-|Specifies the details of the car|VehicleType|
-|Is it a first class vehicle or not|VehicleClass|
-|Vehicle type|Vehicle|
-|HashPassport|HashPassportNumber_p|
+|Male|Does the ticket belong to a woman or a man|
+|Price|Ticket price without discount|
+|CouponDiscount|Discount applied by the person on the ticket|
+|From|Origin of travel|
+|To|Travel destination|
+|Domestic|Is the trip domestic or foreign|
+|VehicleType|Specifies the details of the car|
+|VehicleClass|Is it a first class vehicle or not|
+|Vehicle|Vehicle type|
+|HashPassportNumber_p|HashPassport|
 |HashEmail|HashEmail|
 |BuyerMobile|BuyerMobile|
 |NationalCode|NationalCode|
-|Reason for travel|TripReason|
-|Is the ticket canceled or not|Cancel|
-    
-</font>
-</div>
-</center>
+|TripReason|Reason for travel|
+|Cancel|Is the ticket canceled or not|
 
 
 ---
